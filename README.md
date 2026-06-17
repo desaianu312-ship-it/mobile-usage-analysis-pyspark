@@ -162,11 +162,13 @@ The analysis provides valuable insights into user engagement and digital behavio
 
 ### User Clustering Visualization
 
-![User Clustering](screenshots/clustering.png)
+![User Clustering](<img width="985" height="621" alt="Screenshot 2026-06-17 134414" src="https://github.com/user-attachments/assets/9bd775de-bdc0-40fe-9f0f-7d5f832161c9" />
+)
 
 ### Gender-Based Screen Time Analysis
 
-![Gender Analysis](screenshots/gender_analysis.png)
+![Gender Analysis](<img width="750" height="587" alt="Screenshot 2026-06-17 134426" src="https://github.com/user-attachments/assets/b005815b-7625-422c-872f-efd1ae23fe9a" />
+)
 
 ---
 
